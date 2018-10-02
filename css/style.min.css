@@ -2711,7 +2711,7 @@ header.row a span {
 
 .codepen-link:hover,
 .codepen-link:focus {
-  background: #fafafa
+  background: black
 }
 
 @media screen and (max-width: 767px) {
@@ -2853,7 +2853,7 @@ table.doc.cardized tr {
   display: block;
   border: .0625rem solid var(--table-border-color);
   border-radius: var(--universal-border-radius);
-  background: #fafafa;
+  background: #f57c00;
   padding: var(--universal-padding);
   margin: var(--universal-margin);
   margin-bottom: calc(2 * var(--universal-margin))
